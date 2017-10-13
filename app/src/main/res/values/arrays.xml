@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Caprive</item>
+        <item>Boisanta</item>
+        <item>White house</item>
+        <item>Ziniko</item>
+        <item>BusyCorner</item>
+        <item>MTlouge</item>
+    </string-array>
+
+    <string-array name="resturant">
+        <item>kfc</item>
+        <item>steers</item>
+        <item>debonairs</item>
+        <item>chicken_licken</item>
+        <item>busyconer</item>
+        <item>chisa_nyama</item>
+    </string-array>
+    <string-array name="events">
+    <item>makhulong park </item>
+    <item>mhlareng tennis court.</item>
+    <item> kgatlamping sport ground</item>
+    <item>rabie ridge community hall</item>
+    <item>founded in 1997 imbizo shisanyama busy coner is south africans most acclaimed african cuisine resturant that celebrates the the authentic african culture and heritage</item>
+    <item>Mt lounge...contemporary lif caestylefe the new african contempory lifestyle cafe update.</item>
+</string-array>
+
+    <string-array name="events_desc">
+        <item>makhulong park </item>
+        <item>mhlareng tennis court.</item>
+        <item> kgatlamping sport ground</item>
+        <item>rabie ridge community hall</item>
+        <item>founded in 1997 imbizo shisanyama busy coner is south africans most acclaimed african cuisine resturant that celebrates the the authentic african culture and heritage</item>
+        <item>Mt lounge...contemporary lif caestylefe the new african contempory lifestyle cafe update.</item>
+    </string-array>
+    <string-array name="clubs_details">
+        <item>caprive lounge ia an entertainment venue with a resturant and pub feel
+        </item>
+        <item>this value is based on the number of visitors,chekins,and likes on facebook in the last few months
+        </item>
+        <item>is the place to be .everything you want and need it is places tembisa gauteng white house lounge
+        </item>
+        <item>founded in 1997 imbizo shisanyama busy coner is south africans most acclaimed african cuisine resturant that celebrates the the authentic african culture and heritage
+        </item>
+        <item>Mt lounge...contemporary lifestyle cafe the new african contempory lifestyle cafe update
+        </item>
+    </string-array>
+
+    <string-array name="clubs_desc">
+        <item>makhulong park </item>
+        <item>mhlareng tennis court.</item>
+        <item> kgatlamping sport ground</item>
+        <item>rabie ridge community hall</item>
+        <item>founded in 1997 imbizo shisanyama busy coner is south africans most acclaimed african cuisine resturant that celebrates the the authentic african culture and heritage</item>
+        <item>Mt lounge...contemporary lifestyle cafe the new african contempory lifestyle cafe update.</item>
+    </string-array>
+    <string-array name="events_details">
+        <item>entartaiment
+        </item>
+        <item>this value is based on the number of visitors,chekins,and likes on facebook in the last few months
+        </item>
+        <item>is the place to be .everything you want and need it is places tembisa gauteng white house lounge
+        </item>
+        <item>founded in 1997 imbizo shisanyama busy coner is south africans most acclaimed african cuisine resturant that celebrates the the authentic african culture and heritage
+        </item>
+        <item>Mt lounge...contemporary lifestyle cafe the new african contempory lifestyle cafe update
+        </item>
+
+    </string-array>
+    <string-array name="rasturant_desc">
+        <item>birch acress mall </item>
+        <item>birch acress mall</item>
+        <item> birch acress mall</item>
+        <item>birch acress mall</item>
+        <item>birch acress mall</item>
+        <item>birch acress mall</item>
+    </string-array>
+    <string-array name="resturant_details">
+        <item>entartaiment
+        </item>
+        <item>this value is based on the number of visitors,chekins,and likes on facebook in the last few months
+        </item>
+        <item>is the place to be .everything you want and need it is places tembisa gauteng white house lounge
+        </item>
+        <item>founded in 1997 imbizo shisanyama busy coner is south africans most acclaimed african cuisine resturant that celebrates the the authentic african culture and heritage
+        </item>
+        <item>Mt lounge...contemporary lifestyle cafe the new african contempory lifestyle cafe update
+        </item>
+
+    </string-array>
+
+    <string-array name="clubs_locations">
+        <item>750 reverend R.T.J NAMANE Dr tembisa johhesburg 1632</item>
+        <item>moriting park,Rivonia st ,tembisa johhesburg,1632</item>
+        <item>43 teanong sec,tembisa gauteng 1632</item>
+        <item>nakuru st tembisa johannesburg 1632</item>
+        <item>coner of main and 29 september roads ext 1 Ebony park midrand gauteng</item>
+        <item>endayeni shops ekurhuleni</item>
+    </string-array>
+
+    <string-array name="events_locations">
+        <item>makhulong</item>
+        <item>mhlareng</item>
+        <item>kgatlamping</item>
+        <item>rabie ridge</item>
+        <item>makhulong</item>
+        <item>mhlareng</item>
+    </string-array>
+
+    <string-array name="resturant_locations">
+        <item>kfc</item>
+        <item>steers</item>
+        <item>debonairs</item>
+        <item>chicken_licken</item>
+        <item>busyconer</item>
+        <item>chisa_nyama</item>
+    </string-array>
+    <array name="events_picture">
+        <item>@drawable/e</item>
+        <item>@drawable/eve</item>
+        <item>@drawable/st</item>
+        <item>@drawable/event</item>
+        <item>@drawable/eve</item>
+        <item>@drawable/e</item>
+    </array>
+    <array name="events_avator">
+        <item>@drawable/e</item>
+        <item>@drawable/eve</item>
+        <item>@drawable/st</item>
+        <item>@drawable/event</item>
+        <item>@drawable/eve</item>
+        <item>@drawable/e</item>
+    </array>
+
+    <array name="clubs_picture">
+        <item>@drawable/cp</item>
+        <item>@drawable/bs</item>
+        <item>@drawable/wh</item>
+        <item>@drawable/zi</item>
+        <item>@drawable/bc</item>
+        <item>@drawable/mt</item>
+    </array>
+    <array name="resturant_picture">
+        <item>@drawable/kfc</item>
+        <item>@drawable/steers</item>
+        <item>@drawable/debonairs</item>
+        <item>@drawable/chicken_licken</item>
+        <item>@drawable/busyconer</item>
+        <item>@drawable/chesa_nyama</item>
+    </array>
+</resources>
